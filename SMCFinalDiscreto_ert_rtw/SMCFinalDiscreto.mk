@@ -2,7 +2,7 @@
 ## Makefile generated for component 'SMCFinalDiscreto'. 
 ## 
 ## Makefile     : SMCFinalDiscreto.mk
-## Generated on : Tue Aug 20 12:53:56 2024
+## Generated on : Thu Aug 22 11:37:55 2024
 ## Final product: $(RELATIVE_PATH_TO_ANCHOR)/SMCFinalDiscreto.elf
 ## Product type : executable
 ## 
