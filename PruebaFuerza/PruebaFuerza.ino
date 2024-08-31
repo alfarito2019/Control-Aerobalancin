@@ -20,7 +20,7 @@ void loop() {
   // Lee el valor del sensor
   sensorValue = analogRead(encodersensorPin);
   // Convierte la lectura analógica a grados (ajusta el offset si es necesario)
-  Angle = map(sensorValue, 0, 1023, 0, 360)-180;
+  Angle = -map(sensorValue, 0, 1023, 0, 360)+244;
 
   Serial.print("Ángulo: "); 
   Serial.println(Angle);
