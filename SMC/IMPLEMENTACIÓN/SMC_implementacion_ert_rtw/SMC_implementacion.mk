@@ -2,7 +2,7 @@
 ## Makefile generated for component 'SMC_implementacion'. 
 ## 
 ## Makefile     : SMC_implementacion.mk
-## Generated on : Tue Sep 03 22:15:42 2024
+## Generated on : Tue Sep 03 22:51:58 2024
 ## Final product: $(RELATIVE_PATH_TO_ANCHOR)/SMC_implementacion.elf
 ## Product type : executable
 ## 
